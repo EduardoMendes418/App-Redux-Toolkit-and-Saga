@@ -1,4 +1,4 @@
-#### REDUX and SAGA
+#### REDUX e SAGA
 
 ### (Provider), (createSagaMiddleware), (configureStore) e (catsReducer)
  
